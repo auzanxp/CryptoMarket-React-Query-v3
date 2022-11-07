@@ -23,5 +23,5 @@ You may also see any lint errors in the console.
 
 To learn NextJS, check out the [Next.JS documentation](https://nextjs.org/).
 
-To learn React Query V3, check out the [Next.JS documentation](https://react-query-v3.tanstack.com/).
+To learn React Query V3, check out the [React Query V3 documentation](https://react-query-v3.tanstack.com/).
 
